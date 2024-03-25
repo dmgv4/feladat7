@@ -4,6 +4,10 @@ body
 	padding-left: 5em;
 	padding-right: 5em;
 	color: #B0E0E6;
+	background-image: url(img/hatter.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
 }
 
 .divformaz
@@ -34,4 +38,20 @@ label
 {
 	padding: 12px 12px 12px 0;
 	display: inline-block;
+}
+#orakep{
+	position: relative;
+	top: 100px;
+}
+#vonal{
+	background-color: red;
+	height: 20px;
+}
+.hely
+{
+	font-size: 1.2em;
+	text-align: center;
+	font-style: italic;
+	color: red;
+	list-style: none;
 }
